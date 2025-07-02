@@ -31,16 +31,6 @@ With a strong foundation in **machine learning**, **deep learning**, and **acous
 
 ---
 
-## 📂 Highlighted Projects
-
-| Repository | Description |
-|-----------|-------------|
-| [🔗 my-portfolio](https://github.com/engrmuhammadumar/my-portfolio) | A clean, responsive personal website built to showcase my work and achievements. |
-| [🔗 advanced-fault-diagnosis](https://github.com/engrmuhammadumar/advanced-fault-diagnosis) | Deep learning pipeline for AE-based fault diagnosis using CWT, STFT, and hybrid feature fusion. |
-| [🔗 Deep-Learning-Projects](https://github.com/engrmuhammadumar/Deep-Learning-Projects) | A collection of practical notebooks covering CNNs, RNNs, ViTs, and real-world ML tasks. |
-
----
-
 ## 🛠 Tech Stack
 
 **Languages**: Python, MATLAB, HTML/CSS  
