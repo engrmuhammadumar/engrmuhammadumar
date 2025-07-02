@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Muhammad Umar
 
-**Graduate Research Assistant** | **Deep Learning Enthusiast** | **Signal Processing Specialist**  
-University of Ulsan, South Korea | Researching Fault Diagnosis & Prognosis
+**Graduate Research Assistant** | **Machine Learning** | **Deep Learning** | **Generative AI**| **Signal Processing**  
+University of Ulsan, South Korea 
 
 ---
 
