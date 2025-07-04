@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Muhammad Umar
+# 👋 Hello world, I'm Muhammad Umar
 
 **Graduate Research Assistant** | **Machine Learning** | **Deep Learning** | **Generative AI** | **Signal Processing**  
 University of Ulsan, South Korea 
