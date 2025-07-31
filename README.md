@@ -45,8 +45,8 @@ With a strong foundation in **machine learning**, **deep learning**, and **acous
 ## Let's Connect
 
 - [My Website](https://engrmuhammadumar.github.io/my-portfolio/)  
-- [LinkedIn](https://www.linkedin.com/in/engrmuhammadumar)  
-- [Kaggle](https://www.kaggle.com/mianmuhammadumar)  
+- [LinkedIn](https://www.linkedin.com/in/engineermuhammadumar/)  
+- [Kaggle](https://www.kaggle.com/ulsan1758)  
 - mmumar1758@gmail.com  
 
 ---
