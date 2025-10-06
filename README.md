@@ -9,7 +9,8 @@ University of Ulsan, South Korea
 
 I'm a passionate researcher and engineer deeply involved in cutting-edge projects at the intersection of **Artificial Intelligence**, **Signal Processing**, and **Condition-Based Monitoring**. My work primarily focuses on developing intelligent, interpretable, and real-time fault diagnosis frameworks for **industrial applications** such as:
 
-- Milling Machines  
+- Milling Machines
+- Tool Wear Monitoring
 - Bearings  
 - Pipeline Leak Detection  
 - Centrifugal Pumps  
