@@ -3,10 +3,11 @@
 
 ---
 
-**Email:** [mmumar1758@gmail.com](mailto:mmumar1758@gmail.com)  
-**Portfolio:** [engrmuhammadumar.github.io/my-portfolio](https://engrmuhammadumar.github.io/my-portfolio)  
-**LinkedIn:** [linkedin.com/in/engineermuhammadumar](https://www.linkedin.com/in/engineermuhammadumar/)  
-**Kaggle:** [kaggle.com/ulsan1758](https://www.kaggle.com/ulsan1758)
+📧 **Email:** [mmumar1758@gmail.com](mailto:mmumar1758@gmail.com)  
+🌐 **Portfolio:** [engrmuhammadumar.github.io/my-portfolio](https://engrmuhammadumar.github.io/my-portfolio)  
+🔗 **LinkedIn:** [linkedin.com/in/engineermuhammadumar](https://www.linkedin.com/in/engineermuhammadumar/)  
+📊 **Kaggle:** [kaggle.com/ulsan1758](https://www.kaggle.com/ulsan1758)
+
 
 
 ## Looking to Collaborate On
