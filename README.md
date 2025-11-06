@@ -8,22 +8,6 @@
 🔗 **LinkedIn:** [linkedin.com/in/engineermuhammadumar](https://www.linkedin.com/in/engineermuhammadumar/)  
 📊 **Kaggle:** [kaggle.com/ulsan1758](https://www.kaggle.com/ulsan1758)
 
----
-
-## 🔭 Currently Working On
-- 🧠 AI-driven **Fault Diagnosis** using **Acoustic Emission (AE)** signals  
-- ⚙️ **Remaining Useful Life (RUL)** estimation for industrial machinery  
-- 🧩 Developing **Hybrid CNN–LSTM models** and **Explainable AI (XAI)** frameworks  
-- 🧾 Research in **Physics-Informed Deep Learning (PIDL)** for predictive maintenance  
-
----
-
-## 🌱 Currently Learning
-- 🦾 **Vision Transformers (ViT)** for tool wear analysis  
-- 🌐 **Graph Neural Networks (GNNs)** for relational industrial data  
-- ⚡ **Edge AI** and **real-time fault detection systems**
-
----
 
 ## 👯 Looking to Collaborate On
 - Condition-Based Monitoring (CBM) and RUL prediction research  
@@ -33,10 +17,10 @@
 ---
 
 ## 💬 Ask Me About
-- 🔍 Signal Processing (CWT, STFT, Wavelets)  
-- 🧠 Deep Learning Architectures (CNN, LSTM, ViT)  
+- 🔍 Signal Processing
+- 🧠 Deep Learning Architectures
 - ⚙️ Fault Diagnosis & Prognostics  
-- 🪶 Explainable AI (Grad-CAM, SHAP, Saliency Maps)
+- 🪶 Explainable AI
 
 ---
 
@@ -83,18 +67,6 @@
 
 ---
 
-## ✍️ Inspirational Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Learn%20deeply.%20Build%20responsibly.%20Explain%20clearly.%20Impact%20globally.)
-
----
-
-## 🐍 Contribution Snake  
-<div align="center">
-  <img src="https://github.com/engrmuhammadumar/engrmuhammadumar/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
----
-
 ## 🔝 Top Contributed Repositories  
 ![](https://github-contributor-stats.vercel.app/api?username=engrmuhammadumar&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
@@ -103,6 +75,3 @@
 ## ✨ Motto  
 > *"Learn deeply. Build responsibly. Explain clearly. Impact globally."*  
 
----
-
-### 🧾 Created with ❤️ by **Muhammad Umar**
