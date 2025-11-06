@@ -3,33 +3,33 @@
 
 ---
 
-📧 **Email:** [mmumar1758@gmail.com](mailto:mmumar1758@gmail.com)  
-🌐 **Portfolio:** [engrmuhammadumar.github.io/my-portfolio](https://engrmuhammadumar.github.io/my-portfolio)  
-🔗 **LinkedIn:** [linkedin.com/in/engineermuhammadumar](https://www.linkedin.com/in/engineermuhammadumar/)  
-📊 **Kaggle:** [kaggle.com/ulsan1758](https://www.kaggle.com/ulsan1758)
+**Email:** [mmumar1758@gmail.com](mailto:mmumar1758@gmail.com)  
+**Portfolio:** [engrmuhammadumar.github.io/my-portfolio](https://engrmuhammadumar.github.io/my-portfolio)  
+**LinkedIn:** [linkedin.com/in/engineermuhammadumar](https://www.linkedin.com/in/engineermuhammadumar/)  
+**Kaggle:** [kaggle.com/ulsan1758](https://www.kaggle.com/ulsan1758)
 
 
-## 👯 Looking to Collaborate On
+## Looking to Collaborate On
 - Condition-Based Monitoring (CBM) and RUL prediction research  
 - Industrial health monitoring projects with interpretable AI  
 - Multi-sensor signal fusion and noise-robust model design  
 
 ---
 
-## 💬 Ask Me About
-- 🔍 Signal Processing
-- 🧠 Deep Learning Architectures
-- ⚙️ Fault Diagnosis & Prognostics  
-- 🪶 Explainable AI
+## Ask Me About
+-  Signal Processing
+-  Deep Learning Architectures
+-  Fault Diagnosis & Prognostics  
+-  Explainable AI
 
 ---
 
-## ⚡ Fun Fact  
+##  Fun Fact  
 > I transform noisy industrial signals into meaningful insights ⚙️📊  
 
 ---
 
-## 🌐 Connect With Me  
+##  Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Umar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engineermuhammadumar/)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-Umar-blue?logo=kaggle&logoColor=white)](https://www.kaggle.com/ulsan1758)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Umar-black?logo=githubpages&logoColor=white)](https://engrmuhammadumar.github.io/my-portfolio/)  
@@ -37,7 +37,7 @@
 
 ---
 
-## 💻 Tech Stack  
+##  Tech Stack  
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -55,6 +55,6 @@
 
 ---
 
-## ✨ Motto  
+##  Motto  
 > *"Learn deeply. Build responsibly. Explain clearly. Impact globally."*  
 
