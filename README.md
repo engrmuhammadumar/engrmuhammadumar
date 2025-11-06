@@ -1,62 +1,108 @@
-# 👋 Hello world, I'm Umar
-
-**Graduate Research Assistant** | **Machine Learning** | **Deep Learning** | **Generative AI** | **Signal Processing**  
-University of Ulsan, South Korea 
+# 💫 Hi 👋, I'm Muhammad Umar  
+🎓 **Graduate Research Assistant | AI Researcher | Signal Processing & RUL Prediction | University of Ulsan, South Korea**
 
 ---
 
-## About Me
-
-I'm a passionate researcher and engineer deeply involved in cutting-edge projects at the intersection of **Artificial Intelligence**, **Signal Processing**, and **Condition-Based Monitoring**. My work primarily focuses on developing intelligent, interpretable, and real-time fault diagnosis frameworks for **industrial applications** such as:
-
-- Milling Machines
-- Tool Wear Monitoring
-- Bearings  
-- Pipeline Leak Detection  
-- Centrifugal Pumps  
-- Concrete Structural Health Monitoring  
-
-With a strong foundation in **machine learning**, **deep learning**, and **acoustic emission (AE) signal analysis**, I strive to build solutions that are **not only accurate and reliable**, but also **explainable and deployable**.
+📧 **Email:** [mmumar1758@gmail.com](mailto:mmumar1758@gmail.com)  
+🌐 **Portfolio:** [engrmuhammadumar.github.io/my-portfolio](https://engrmuhammadumar.github.io/my-portfolio)  
+🔗 **LinkedIn:** [linkedin.com/in/engineermuhammadumar](https://www.linkedin.com/in/engineermuhammadumar/)  
+📊 **Kaggle:** [kaggle.com/ulsan1758](https://www.kaggle.com/ulsan1758)
 
 ---
 
-## Key Expertise
-
-- **Fault Diagnosis & Prognosis**  
-- **Signal Processing (Time, Frequency, Time-Frequency)**  
-- **Remaining Useful Life (RUL) Prediction**  
-- **Deep Learning Architectures (CNN, LSTM, ViT, GNN, Transformers)**  
-- **Explainable AI (Grad-CAM, SHAP, Saliency Maps)**  
-- **Feature Engineering & Dimensionality Reduction (UMAP, t-SNE, PCA)**  
-- **Model Deployment & Real-Time Systems**
+## 🔭 Currently Working On
+- 🧠 AI-driven **Fault Diagnosis** using **Acoustic Emission (AE)** signals  
+- ⚙️ **Remaining Useful Life (RUL)** estimation for industrial machinery  
+- 🧩 Developing **Hybrid CNN–LSTM models** and **Explainable AI (XAI)** frameworks  
+- 🧾 Research in **Physics-Informed Deep Learning (PIDL)** for predictive maintenance  
 
 ---
 
-## Tech Stack
-
-**Languages**: Python, MATLAB, C#, HTML/CSS/JavaScript
-**Tools**: PyTorch, Scikit-learn, TensorFlow, OpenCV, Librosa  
-**Frameworks**: HuggingFace Transformers, FastAI, Keras  
-**Visualization**: Matplotlib, Seaborn, Plotly  
-**Version Control**: Git, GitHub  
-**Other**: LaTeX, Power BI, Firebase, MongoDB
+## 🌱 Currently Learning
+- 🦾 **Vision Transformers (ViT)** for tool wear analysis  
+- 🌐 **Graph Neural Networks (GNNs)** for relational industrial data  
+- ⚡ **Edge AI** and **real-time fault detection systems**
 
 ---
 
-## Let's Connect
-
-- [My Website](https://engrmuhammadumar.github.io/my-portfolio/)  
-- [LinkedIn](https://www.linkedin.com/in/engineermuhammadumar/)  
-- [Kaggle](https://www.kaggle.com/ulsan1758)  
-- mmumar1758@gmail.com  
+## 👯 Looking to Collaborate On
+- Condition-Based Monitoring (CBM) and RUL prediction research  
+- Industrial health monitoring projects with interpretable AI  
+- Multi-sensor signal fusion and noise-robust model design  
 
 ---
 
-## Motto
-
-> "Learn deeply. Build responsibly. Explain clearly. Impact globally."
+## 💬 Ask Me About
+- 🔍 Signal Processing (CWT, STFT, Wavelets)  
+- 🧠 Deep Learning Architectures (CNN, LSTM, ViT)  
+- ⚙️ Fault Diagnosis & Prognostics  
+- 🪶 Explainable AI (Grad-CAM, SHAP, Saliency Maps)
 
 ---
 
-Feel free to explore my repositories, collaborate on meaningful projects, or just say hello!
+## ⚡ Fun Fact  
+> I transform noisy industrial signals into meaningful insights ⚙️📊  
 
+---
+
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Umar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engineermuhammadumar/)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-Umar-blue?logo=kaggle&logoColor=white)](https://www.kaggle.com/ulsan1758)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Umar-black?logo=githubpages&logoColor=white)](https://engrmuhammadumar.github.io/my-portfolio/)  
+[![Medium](https://img.shields.io/badge/Medium-Umar-black?logo=medium&logoColor=white)](https://medium.com/@engineerumar)
+
+---
+
+## 💻 Tech Stack  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Librosa](https://img.shields.io/badge/Librosa-%23B41717.svg?style=for-the-badge&logo=python&logoColor=white)
+![FastAI](https://img.shields.io/badge/FastAI-%23007ACC.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 🏆 GitHub Trophies  
+![](https://github-profile-trophy.vercel.app/?username=engrmuhammadumar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+## 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=engrmuhammadumar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=engrmuhammadumar&theme=radical&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=engrmuhammadumar&theme=radical&hide_border=false)
+
+---
+
+## ✍️ Inspirational Quote  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Learn%20deeply.%20Build%20responsibly.%20Explain%20clearly.%20Impact%20globally.)
+
+---
+
+## 🐍 Contribution Snake  
+<div align="center">
+  <img src="https://github.com/engrmuhammadumar/engrmuhammadumar/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+---
+
+## 🔝 Top Contributed Repositories  
+![](https://github-contributor-stats.vercel.app/api?username=engrmuhammadumar&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+
+## ✨ Motto  
+> *"Learn deeply. Build responsibly. Explain clearly. Impact globally."*  
+
+---
+
+### 🧾 Created with ❤️ by **Muhammad Umar**
