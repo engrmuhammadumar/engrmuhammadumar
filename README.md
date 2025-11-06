@@ -55,11 +55,6 @@
 
 ---
 
-## 🔝 Top Contributed Repositories  
-![](https://github-contributor-stats.vercel.app/api?username=engrmuhammadumar&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-
 ## ✨ Motto  
 > *"Learn deeply. Build responsibly. Explain clearly. Impact globally."*  
 
