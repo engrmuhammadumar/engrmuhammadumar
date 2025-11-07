@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Umar  
+# Hi 👋, I'm Umar  
 🎓 **Graduate Research Assistant | AI Researcher | Signal Processing & RUL Prediction | University of Ulsan, South Korea**
 
 ---
