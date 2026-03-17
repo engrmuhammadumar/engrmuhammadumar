@@ -1,44 +1,60 @@
-# Hi 👋, I'm Umar  
-🎓 **Graduate Research Assistant | AI Researcher | Signal Processing & RUL Prediction | University of Ulsan, South Korea**
+# Happy to see you here 👋
+
+The green dots on my GitHub profile represent my journey in research, learning, and building intelligent systems.
+
+I'm **Umar**, a **Graduate Research Assistant and AI Researcher at the University of Ulsan, South Korea**.  
+My work focuses on **Signal Processing, Fault Diagnosis, and Remaining Useful Life (RUL) Prediction** for industrial systems.
+
+I enjoy turning **complex, noisy industrial signals into meaningful insights** using machine learning and deep learning techniques. My research explores **interpretable AI, multi-sensor signal fusion, and robust prognostics models** that can help industries predict failures before they occur.
+
+While my academic work lives in research papers and experiments, GitHub is where I share my **projects, implementations, and experiments in AI and signal processing.**
 
 ---
 
-📧 **Email:** [mmumar1758@gmail.com](mailto:mmumar1758@gmail.com)  
-🌐 **Portfolio:** [engrmuhammadumar.github.io/my-portfolio](https://engrmuhammadumar.github.io/my-portfolio)  
-🔗 **LinkedIn:** [linkedin.com/in/engineermuhammadumar](https://www.linkedin.com/in/engineermuhammadumar/)  
-📊 **Kaggle:** [kaggle.com/ulsan1758](https://www.kaggle.com/ulsan1758)
+## About Me
 
+**Graduate Research Assistant**  
+**University of Ulsan, South Korea**  
 
+**Research Interests**
+- Condition-Based Monitoring (CBM)
+- Fault Diagnosis & Prognostics
+- Remaining Useful Life (RUL) Prediction
+- Explainable AI for Industrial Systems
+- Multi-sensor Signal Fusion
+- Noise-Robust Machine Learning Models
 
-## Looking to Collaborate On
-- Condition-Based Monitoring (CBM) and RUL prediction research  
-- Industrial health monitoring projects with interpretable AI  
-- Multi-sensor signal fusion and noise-robust model design  
+---
+
+## Currently Looking to Collaborate On
+
+- Condition-Based Monitoring (CBM) research projects  
+- RUL prediction models for industrial systems  
+- Interpretable AI for predictive maintenance  
+- Multi-sensor signal fusion and robust feature extraction  
+
+If you're working on **industrial AI, predictive maintenance, or signal-based ML**, feel free to connect.
 
 ---
 
 ## Ask Me About
--  Signal Processing
--  Deep Learning Architectures
--  Fault Diagnosis & Prognostics  
--  Explainable AI
+
+- Signal Processing for Machine Learning  
+- Deep Learning Architectures  
+- Fault Diagnosis & Prognostics  
+- Explainable AI (XAI)  
+- Industrial AI Applications  
 
 ---
 
-##  Fun Fact  
-> I transform noisy industrial signals into meaningful insights ⚙️📊  
+## Fun Fact
+
+> I transform **noisy industrial signals into meaningful insights**
 
 ---
 
-##  Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Umar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engineermuhammadumar/)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-Umar-blue?logo=kaggle&logoColor=white)](https://www.kaggle.com/ulsan1758)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Umar-black?logo=githubpages&logoColor=white)](https://engrmuhammadumar.github.io/my-portfolio/)  
-[![Medium](https://img.shields.io/badge/Medium-Umar-black?logo=medium&logoColor=white)](https://medium.com/@engineerumar)
+## Tech Stack
 
----
-
-##  Tech Stack  
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -56,6 +72,34 @@
 
 ---
 
-##  Motto  
-> *"Learn deeply. Build responsibly. Explain clearly. Impact globally."*  
+## Outside of GitHub, you can find me here
 
+**Email:**  
+[mmumar1758@gmail.com](mailto:mmumar1758@gmail.com)
+
+**Portfolio:**  
+https://engrmuhammadumar.github.io/my-portfolio
+
+**LinkedIn:**  
+https://linkedin.com/in/engineermuhammadumar
+
+**Kaggle:**  
+https://kaggle.com/ulsan1758
+
+**Medium:**  
+https://medium.com/@engineerumar
+
+---
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Umar-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engineermuhammadumar/)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-Umar-blue?logo=kaggle&logoColor=white)](https://www.kaggle.com/ulsan1758)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Umar-black?logo=githubpages&logoColor=white)](https://engrmuhammadumar.github.io/my-portfolio/)  
+[![Medium](https://img.shields.io/badge/Medium-Umar-black?logo=medium&logoColor=white)](https://medium.com/@engineerumar)
+
+---
+
+## Motto
+
+> *"Learn deeply. Build responsibly. Explain clearly. Impact globally."*
