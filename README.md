@@ -13,7 +13,7 @@ GitHub is where I keep code, implementations and experiments that go with my res
 | | |
 |---|---|
 | Peer-reviewed papers | 25+ (16 journal articles, 10 conference papers) |
-| Google Scholar | 423 citations · h-index 11 · i10-index 12 |
+| Google Scholar | 430 citations · h-index 11 · i10-index 12 |
 | Awards | 2 Best Paper Awards (FICTA 2025, ICRAI 2026) · Best Presentation Award (MLMI 2026) · 2 Editor's Choice articles (MDPI Sensors) |
 | Teaching | Invited two-session module on Digital Image Processing, Namal University (2026) |
 | Service | TPC member, IEEE AIoT 2025 · Reviewer, NeurIPS 2026 FMTS Workshop |
